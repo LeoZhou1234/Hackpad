@@ -28,7 +28,7 @@ Designed in KiCad.<br>
 ![image of the pcb](./Images/pcb.png)
 
 ## Firmware ##
-The firmware is QMK. It is currently configured as a numpad.
+The firmware is QMK. The keymap is currently configured as a numpad.
 
 ```            
             ┌───┐
@@ -43,7 +43,7 @@ The firmware is QMK. It is currently configured as a numpad.
 │ 0 │ . │Ent│ + │
 └───┴───┴───┴───┘
 ```
-The rotary encoder is located where `vol` is. It works as volume control when rotated (CW - Vol Up / CCW - Vol Down), and can play/pause wehen pressed.<br>
+The rotary encoder is located where `vol` is. It works as volume control when rotated (CW - Vol Up / CCW - Vol Down), and can play/pause when pressed.<br>
 
 ## BOM ##
 
