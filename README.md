@@ -50,12 +50,14 @@ The rotary encoder is located where `vol` is. It works as volume control when ro
 - 4x M3x16mm SCHS Bolts
 - 4x M3x⌀5mmx4mm Heat Set Inserts
 - 16x Cherry MX Style Switches
+- 16x 1U Keycaps
 - 1x EC11 Rotary Encoder
+- 1x 3D Printed Knob 
 - 17x 1N4148 DO-35 Diodes
 - 1x Seeed Studio XIAO RP2040
+- 1x PCB
 - 1x 3D Printed Case
     - Case Top
     - Case Bottom
     - Switch Plate
-- 1x 3D Printed Knob 
 
