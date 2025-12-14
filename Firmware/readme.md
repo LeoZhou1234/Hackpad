@@ -1,6 +1,6 @@
 # Hackpad
 
-Hackpad for Hack Club Blueprint
+Hackpad for Hack Club Blueprint  
 Keyboard Maintainer: [Leo Zhou](https://github.com/LeoZhou1234)
 
 Keymap:
