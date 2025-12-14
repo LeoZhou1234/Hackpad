@@ -12,7 +12,7 @@ My submission for Hack Club Blueprint.<br>
 
 
 ## Case ##
-The case consists of 3 parts: the top, bottom, and switch plate. 
+The case consists of three parts: the top, bottom, and switch plate. 
 The three parts are secured with M3x16mm bolts and heat set inserts. Refer to the images below for assembly.
 Designed in Onshape.<br>
 ![exploded view of the hackpad](./Images/hackpadExploded.png)
